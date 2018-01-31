@@ -1,0 +1,14 @@
+#EXTINF:-1,A&E
+http://5g.iptvmanagerpro.com/stream_48_6b0f368ddb0a55b6df67c64ec4372e1b_1517346155.m3u8
+#EXTINF:-1,FOX HD
+http://5g.iptvmanagerpro.com/stream_98_480b9ff758bba67a436f489042438440_1517346155.m3u8
+#EXTINF:-1,WARNER HD
+http://5g.iptvmanagerpro.com/stream_76_dc6fa0b3956a8df3eb8e11f1ace94149_1517346155.m3u8
+#EXTINF:-1,FOX ACCION HD
+http://5g.iptvmanagerpro.com/stream_88_25155a87468cbb8cb7e85e792e934cdd_1517346155.m3u8
+#EXTINF:-1,LIFETIME HD
+http://5g.iptvmanagerpro.com/stream_34_4d7dc21082b2b6c7628e4980b4f912fb_1517346155.m3u8
+#EXTINF:-1,NADGEO HD
+http://189.216.247.113/Content/HLS/Live/Channel(NAT_GEO)/Stream(06)/index.m3u8XTINF:0,Tlnovelas
+#EXTGRP:Entretenimiento
+http://freeiptv.apisecurers.com/canal_9_tlnovelas.m3u8
